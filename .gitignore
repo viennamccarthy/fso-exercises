@@ -4,3 +4,4 @@
 # Intellij IDE files
 /.idea/
 *.iml
+/example/
